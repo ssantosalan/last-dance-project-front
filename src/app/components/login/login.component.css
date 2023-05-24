@@ -1,14 +1,14 @@
 .container {
   height: 100%;
   /* background: white; */
-  background: rgba(194, 194, 194, 0.752);
+  background: linear-gradient(#56088b, #023C77);
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
 .form {
-  width: 30rem;
+  width: 25rem;
   margin: auto;
   /* background-color: rgba(203, 35, 215, 0.752); */
   background-color: white;
@@ -17,8 +17,7 @@
 }
 
 .logo {
-  filter: invert(14%) sepia(45%) saturate(2511%) hue-rotate(255deg)
-    brightness(94%) contrast(93%);
+  filter: invert(11%) sepia(82%) saturate(7054%) hue-rotate(278deg) brightness(58%) contrast(103%);
 }
 
 h1 {
@@ -27,7 +26,7 @@ h1 {
 }
 
 img {
-  height: 15rem;
+  height: 10rem;
   width: 100%;
   margin: 1.5rem auto 1.5rem auto;
 }
