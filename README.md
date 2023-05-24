@@ -4,7 +4,6 @@
 
 <p>
     <ul>
-        <li> The future is now now</li>
         <li>👽 Alan Silva dos Santos</li>
         <li>👽 Arthur Solla Gregorut Favero</li>
         <li>👽 Cauê Batista</li>
