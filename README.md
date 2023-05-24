@@ -4,7 +4,7 @@
 
 <p>
     <ul>
-        <li>👽 Alan Silva dos Santos</li>
+        <li>👽 Alan Silva dos Santos </li>
         <li>👽 Arthur Solla Gregorut Favero</li>
         <li>👽 Cauê Batista</li>
         <li>👽 Gustavo Idalgo</li>
